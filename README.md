@@ -10,7 +10,7 @@ The project is divided into 5 stages. I have provided the problem statements of 
 ___
 
 ### Learning outcome
-After finishing this project, I get to know a lot about planning and developing a complex program from scratch, using functions, handling errors, and processing user input
+After finishing this project, I got to know a lot about planning and developing a complex program from scratch, using functions, handling errors, and processing user input
 
 
 **PLEASE IGNORE THE 'OTHER FILES' FOLDER**
